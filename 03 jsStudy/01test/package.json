@@ -1,0 +1,17 @@
+{
+  "name": "01test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "周东辉 <zhoudonghui@qutoutiao.net>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "puppeteer": "^1.13.0"
+  }
+}
